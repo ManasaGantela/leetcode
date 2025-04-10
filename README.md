@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ManasaGantela/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ManasaGantela/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ManasaGantela/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ManasaGantela/leetcode/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ManasaGantela/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManasaGantela/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ManasaGantela/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ManasaGantela/leetcode/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/ManasaGantela/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ManasaGantela/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ManasaGantela/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -31,4 +33,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManasaGantela/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ManasaGantela/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ManasaGantela/leetcode/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ManasaGantela/leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ManasaGantela/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ManasaGantela/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ManasaGantela/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
