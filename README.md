@@ -58,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ManasaGantela/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ManasaGantela/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ManasaGantela/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
